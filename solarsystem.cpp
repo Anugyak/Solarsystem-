@@ -20,7 +20,7 @@ int main() {
     
     cout << "Welcome to the Solar Project \n";
     
-    // Display question 1
+    // Comparing distance between Earth and Mars
     cout << "[1] Is the distance between Earth and Mars more than 200 (millions of km)?: ";
 
     // Store the distance between earth and mars
@@ -36,7 +36,7 @@ int main() {
         cout << "NO";
     }
     
-    // Display question 2 
+    // Mercury as a nearest planet to the sun
     cout << "\n[2] Is the Mercury nearest planet to the sun?: ";
     
     // Declare the bool variable
@@ -88,7 +88,7 @@ int main() {
         cout << "NO";
     }
     
-    // Display question 3
+    // Pluto as a farthest planet from the sun
     cout << "\n[3] Is the Pluto farthest planet from the sun?: ";
     
     // Declare the bool variable
@@ -140,7 +140,7 @@ int main() {
         cout << "NO";
     }
     
-    // Display question 4 (extra learning question)
+    //combined distance of Mars and Mercury greater than distance of Jupiter?
     cout << "\n[4] Are the combined solar distances of Mars and Mercury greater than the solar distance of Jupiter?: ";
     
     // Assign the combined distance of mars and mercury to the variable
